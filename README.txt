@@ -1,3 +1,6 @@
+This is a Client Server Based Banking system created using Socket Programing in C language.
+
+
 First Run the "createdb.c" file - It will create account of admin with username as -admin and password as -admin
 
 
